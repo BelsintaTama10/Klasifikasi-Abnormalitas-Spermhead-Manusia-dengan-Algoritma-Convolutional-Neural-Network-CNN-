@@ -1,0 +1,9 @@
+Sumber Referensi Jurnal
+1. Deep Learning for the classification of human sperm 
+2. An Efficient Method for Automatic Morphological Abnormality Detection from Human Sperm Images 
+3. Human Sperm Head Morphology dataset (HuSHeM)
+
+Link terkait : 
+1.https://sci-hub.tw/https://www.sciencedirect.com/science/article/pii/S0010482519302112
+2.https://www.researchgate.net/publication/281613311_An_Efficient_Method_for_Automatic_Morphological_Abnormality_Detection_from_Human_Sperm_Images
+3.https://data.mendeley.com/datasets/tt3yj2pf38/3
